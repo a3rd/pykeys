@@ -6,3 +6,10 @@ Tested with 4x5 keypad:
 31 32 33 0a
 30 30 2e 0a
 
+Wireless Pointer
+
+play 1b 5b 31 35 7e
+stop 2e
+
+right 1b 5b 36 7e 
+left  1b 5b 35 7e 
